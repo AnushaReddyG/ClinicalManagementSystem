@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE project>
+<endpoints xmlns="http://java.sun.com/xml/ns/jax-ws/ri/runtime" version="2.0">
+	<endpoint name="LabService" implementation="com.dop.cms.LabServiceImpl"
+		url-pattern="/LabService" />
+</endpoints>
